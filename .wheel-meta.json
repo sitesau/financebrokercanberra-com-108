@@ -1,0 +1,21 @@
+{
+  "wheel_id": 360,
+  "structure": "umbrella",
+  "slug": "financebrokercanberra-com-108",
+  "project": "mortgage-broker-canberra-what-to-expect-dd59021f0db895365baefb4",
+  "parent_t1_ref": "financebrokercanberra-com-152",
+  "node_role": "feeder",
+  "money_target": "financebrokercanberra.com.au",
+  "primary_kw": "mortgage broker canberra what to expect",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-canberra-what-to-expect-dd59021f0db895365baefb4/",
+  "tier": "T2",
+  "writeback_nonce": "96f93ed33bb10d4a",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokercanberra-com-152/",
+      "anchor": "mortgage broker canberra",
+      "rel": "follow",
+      "target_type": "cloud"
+    }
+  ]
+}
